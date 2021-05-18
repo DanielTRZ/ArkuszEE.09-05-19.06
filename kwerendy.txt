@@ -1,0 +1,4 @@
+kw1: SELECT `nazwisko`,`rok_urodzenia`FROM `matematycy` WHERE `rok_urodzenia` < 1800
+kw2: SELECT `id`,`imie`,`nazwisko`FROM `matematycy` WHERE `liczba_publikacji`>5 AND`liczba_publikacji`<20
+kw3: SELECT MAX(liczba_publikacji) FROM `matematycy`WHERE`rok_urodzenia`>1800
+kw4: DROP TABLE typy

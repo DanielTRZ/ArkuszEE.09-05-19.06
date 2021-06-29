@@ -10,8 +10,7 @@ var d ="";
 
 for( i=1; i <= c; i++){
     
-  d+=a*1+(i-1)*b+", ";
-    
+  d+=a*1+(i-1)*b+", ";    
  
 }
 document.getElementById("wynik").innerHTML=d;

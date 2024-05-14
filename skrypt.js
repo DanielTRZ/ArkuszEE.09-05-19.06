@@ -5,7 +5,7 @@ var a = document.getElementById("wyraz1").value;
 var b = document.getElementById("wyraz2").
 // b = parseInt("wyraz2");
 var c = document.getElementById("wyraz3").value;
-   // c = parseInt("wyraz3");
+// c = parseInt("wyraz3");
 var d ="";
 
 for( i=1; i <= c; i++){

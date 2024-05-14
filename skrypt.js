@@ -1,7 +1,7 @@
 function generuj(){
 
 var a = document.getElementById("wyraz1").value;
-   // a = parseInt("wyraz1");
+// a = parseInt("wyraz1");
 var b = document.getElementById("wyraz2").value;
    // b = parseInt("wyraz2");
 var c = document.getElementById("wyraz3").value;
